@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi there 👋, I'm Alvaro
+
+🎓 High school student | Aspiring Full-Stack Developer | Open Source Enthusiast  
+🌱 Currently learning: **Rust, Java, JS**  
+💻 Skills: **Rust | C | C++ | Java | JavaScript | HTML | CSS | Git | Linux | Networking**  
 
 <!--
 **alvinn011/alvinn011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
