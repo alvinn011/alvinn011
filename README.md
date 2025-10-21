@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Alvaro
 
-🎓 High school student | Aspiring Full-Stack Developer | Open Source Enthusiast  
+🎓 High school student | Aspiring Backend Developer | Open Source Enthusiast  
 🌱 Currently learning: **Rust, Java, JS**  
 💻 Skills: **Rust | C | C++ | Java | JavaScript | HTML | CSS | Git | Linux | Networking**  
 📫 Contact me: [alvinn011.dev@gmail.com](mailto:alvinn011.dev@gmail.com) 
